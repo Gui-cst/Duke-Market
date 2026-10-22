@@ -1,0 +1,4 @@
+connection\MySQLConnection.class
+br\dev\guicosta\dukemarket\app\DukeMarketApp.class
+br\dev\guicosta\dukemarket\bean\Produto.class
+br\dev\guicosta\dukemarket\dao\ProdutoDAO.class
